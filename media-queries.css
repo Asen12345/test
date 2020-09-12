@@ -1,0 +1,175 @@
+@media only screen and (min-width: 1800px) {
+    #sev1{
+        
+padding-left: 100px;
+
+}
+#blo_2m img{
+width: 60%;
+}
+.l_1{
+   
+    padding-left: 140px;
+   
+   }
+   .l_2{
+
+
+padding-right:160px ;
+
+
+   }
+   
+   #c_uc{
+
+   
+    padding-left: 110px;
+ }   
+}
+
+@media only screen and (max-width: 1134px) {
+    #poslhe1{
+        
+        width: 40%;
+
+
+    }
+    #head ul{
+        margin-left: 300px;
+    }
+    .l_1{
+        font-size: 20px;
+        float: left;
+        width: 50%;
+        padding-left: 90px;
+       
+       }
+       .l_2{
+
+float: left;
+width: 50%;
+padding-right:90px ;
+margin-top: -7px;
+
+       }
+
+}
+
+
+@media only screen and (max-width: 1000px) {
+
+    #poslhe2 img{
+
+        width: 100%;
+       margin-top: 200px;
+    }
+
+    #blo_2m img{
+
+        width: 70%;
+    }
+
+    .gh{
+
+        
+        margin-top: 20px;
+
+
+    }
+
+    .ghf{
+       
+        margin-left:10px;
+        
+                                      } 
+
+                                      .l_1{
+                                    
+                                        padding-left: 70px;
+                                       
+                                       }
+
+                                       .l_2{
+
+                                        
+                                        padding-right:80px ;
+                                      
+                                       }                                        
+
+
+}
+
+
+@media only screen and (max-width: 849px) {
+    .serv{
+       
+        margin-left: 10px;
+        
+                }
+    #poslhe2 img{
+
+        width: 100%;
+       margin-top: 270px;
+    }
+    #head ul{
+        margin-left: 200px;
+    }
+    #poslhe1{
+      
+        width: 50%;
+        margin-left: 0px;
+       
+    }
+    #poslhe2{
+ 
+    width: 50%;
+   
+    
+    }
+    .main_ka{
+        
+        margin-top: 20px;
+    }
+
+
+    .gh{
+
+margin-top: 10px;
+
+
+    }
+
+    .av{
+        
+        margin-top: 5px;
+    }
+
+    #lwys{
+
+      width: 50%;
+        font-size: 25px;
+        
+        padding-left: 5px;
+    }
+
+   
+
+    #dvf{
+       
+        width: 50%;
+
+    }
+
+    .l_1{
+       
+        padding-left: 50px;
+       
+       }
+       .l_2{
+
+
+padding-right:50px ;
+
+
+       }
+}

@@ -1,0 +1,967 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto+Condensed:700&display=swap');
+
+
+*{
+padding: 0px;
+margin: 0px;
+overflow-x: hidden;
+
+
+}
+
+#verh{
+height: 700px;
+width: 100%;
+float: left;
+
+position: relative;
+z-index: 45;
+background: url(shap.jpg) no-repeat;
+background-size: cover;
+overflow: hidden;
+
+
+
+}
+#verhim{
+width: 100%;
+height: 1100px;
+float: left;
+
+position: relative;
+z-index: 49;
+
+
+
+}
+
+#head{
+width: 100%;
+height: 80px;
+overflow: hidden;
+float: left;
+color:#fff;
+line-height: 80px;
+position: relative;
+z-index: 50;
+
+
+
+
+
+}
+
+
+#headim{
+float: left;
+width: 20%;
+margin-top: 10px;
+margin-left:50px;
+position: relative;
+z-index: 51;
+
+
+
+
+}
+
+
+#head ul{
+list-style-type: none;
+width: 70%;
+font-family: 'Lato', sans-serif;
+font-size: 16px;
+margin-left: 650px;
+position: relative;
+z-index: 52;
+
+
+}
+
+
+#head li{
+    display: inline;
+    margin-left: 15px;
+    cursor: pointer;
+    
+}
+
+
+#head li:hover{
+    border-bottom: 2px solid #0a608c;
+    padding-bottom: 5px;
+    border-radius: 2px;
+    transition: all 0.7s ease;
+
+
+}
+
+
+#poslhe{
+float: left;
+width: 100%;
+z-index: 53;
+position: relative;
+
+}
+
+#poslhe1{
+    float: left;
+    width: 30%;
+    margin-left: 50px;
+    text-align: left;
+    margin-top: 50px;
+}
+#poslhe2{
+float: right;
+width: 50%;
+z-index: 100;
+position: relative;
+
+}
+
+
+#zah{
+    
+text-transform: uppercase;
+color:#0c6ea7;
+font-family: 'Roboto Condensed', sans-serif;
+float: left;
+width: 100%;
+}
+#zah1{
+    
+      color:#fff;
+      font-family: 'Roboto Condensed', sans-serif;
+      float: left;
+      width: 100%;
+      font-size: 40px;
+      margin-top: 10px;
+  
+      }
+
+
+      #zah1 p{
+color:#7f7f7f;
+font-size: 14px;
+font-family: 'Lato', sans-serif;
+margin-top: 20px;
+
+      }
+
+
+      .con{
+width: 160px;
+height: 50px;
+border: 1px solid #4d4e53;
+margin-left: 10px;
+float: left;
+margin-top: 50px;
+text-transform: uppercase;
+line-height: 50px;
+text-align: center;
+color:#fff;
+font-size: 14px;
+font-family: 'Roboto Condensed', sans-serif;
+cursor: pointer;
+overflow-y: hidden;
+      }
+
+
+      .con:hover{
+        border: 0px solid #4d4e53;
+        background: #008ed6;
+        transition: all 0.7s ease;
+
+
+      }
+
+      #poslhe2 img{
+      
+       margin-top: 60px;
+       display: block;
+      
+        
+        }
+
+
+        #chast2{
+            font-size: 16px;
+            margin-top: 50px;
+            text-align: center;
+            text-transform: uppercase;
+            color:#0c6ea7;
+            font-family: 'Roboto Condensed', sans-serif;
+float: left;
+width: 100%;
+
+
+        }
+
+
+        #chast2 p{
+            margin-top: 5px;
+            font-size: 27px;
+            color: black;
+            font-family: 'Lato', sans-serif;
+text-transform: none;
+
+        }
+
+        #chast2::after{
+            content: "";
+            width: 3%;
+            display: inline-block;
+    height: 2px;
+    margin-top: 20px;
+   background: #0c6ea7;
+
+        }
+
+
+        .serv{
+float: left;
+width: 20%;
+margin-top: 80px;
+text-align: center;
+margin-left: 40px;
+
+        }
+
+
+        .serv i{
+
+font-size: 30px;
+color: #2da2dd;
+
+
+        }
+
+
+
+        #sev1{
+            float: left;
+padding-left: 30px;
+width: 100%;
+
+
+        }
+
+
+        .serv_te{
+font-size: 25px;
+margin-top: 50px;
+font-family: 'Lato', sans-serif;
+
+
+        }
+
+
+        .serv_te p{
+            font-size: 14px;
+            margin-top: 10px;
+            font-family: 'Lato', sans-serif;
+            
+            
+                    }
+
+
+                    #blo_2m{
+float: left;
+width: 50%;
+margin-top: 100px;
+margin-left: 30px;
+
+
+
+
+                    }
+    
+                    #blo_2t{
+                        float: left;
+                        width: 45%;
+padding-left: 0px;
+
+                        margin-top: 150px;
+                        
+                        
+                        
+                                            }
+
+
+                                            #t2t{
+text-transform: uppercase;
+color:#0c6ea7;
+font-family: 'Roboto Condensed', sans-serif;
+font-size: 16px;
+
+
+
+                                            }
+
+                                            #t2t p{
+                                                text-transform: none;
+                                                color:#000;
+                                                font-family: 'Lato', sans-serif;
+                                                margin-top: 5px;
+                                                font-size: 34px;
+                                                
+                                                                                            }
+
+
+                                                            #t2t::after{
+                                                                                                content: "";
+                                                                                                width: 7%;
+                                                                                         display: inline-block;
+                                                                                        height: 2px;
+                                                                                        margin-top: 30px;
+                                                                                       background: #0c6ea7;
+                                                                                    margin-left: 7px;
+                                                                                            }      
+                                                                                            
+                                                                                            
+#negl{
+margin-top: 20px;
+font-size: 14px;
+font-family: 'Lato', sans-serif;
+color: #999999;
+text-align: left;
+padding-right: 150px;
+}
+
+#blo_2t ul{
+margin-top: 20px;
+text-align: left;
+
+}
+#blo_2t li{
+margin-top: 10px;
+font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+
+.spi2{
+    margin-left: 10px;
+    font-size: 15px;
+   
+   
+}
+
+#blo_2t i{
+
+    color:#0c6ea7;
+    font-size: 17px;
+}
+
+
+
+#blo_3m{
+    float: left;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 0px;
+    padding-right: 50px;
+    
+    
+    
+                        }
+
+
+                        #blo_3m img{
+                            width: 100%;
+                        }
+    
+                        #blo_3t{
+                            float: left;
+                            width: 50%;
+    
+    padding-left: 50px;
+    padding-right: 100px;
+                            margin-top: 150px;
+                            
+                            
+                            
+                                                }
+    
+    
+                                                #t3t{
+    text-transform: uppercase;
+    color:#0c6ea7;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    
+    
+    
+                                                }
+    
+                                                #t3t p{
+                                                    text-transform: none;
+                                                    color:#000;
+                                                    font-family: 'Lato', sans-serif;
+                                                    margin-top: 5px;
+                                                    font-size: 34px;
+                                                    
+                                                                                                }
+    
+    
+                                                                #t3t::after{
+                                                                                                    content: "";
+                                                                                                    width: 7%;
+                                                                                             display: inline-block;
+                                                                                            height: 2px;
+                                                                                            margin-top: 30px;
+                                                                                           background: #0c6ea7;
+                                                                                        margin-left: 7px;
+                                                                                                }      
+                                                                                                
+                                                                                                
+    #negl1{
+    margin-top: 20px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    color: #999999;
+    text-align: left;
+   
+    }
+ 
+   
+
+  }
+
+
+
+
+  
+
+  .carousel-animate .carousel-indicators > li {
+    margin: 0 2px;
+    background-color: #fff;
+    border-color: rgb(58,36,83);
+    opacity: .7;
+   }
+   .carousel-animate .carousel-indicators > li.active {
+    width: 12px;
+    height: 12px;
+    opacity: 1;
+   }
+  
+  
+   .carousel-bg .carousel-inner .item {
+    background-color: darkslategrey;
+    background-size: cover;
+    background-position: center;
+    min-height: 480px;
+   
+   }
+
+
+   #kar{
+width: 110%;
+float: left;
+margin-left: -50px;
+margin-top: 100px;
+
+
+   }
+
+   .main_ka{
+    text-transform: uppercase;
+    color:#0c6ea7;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 50px;
+    float: left;
+    width: 100%;
+    
+    
+    
+                                                }
+    
+                                                .main_ka p{
+                                                    text-transform: none;
+                                                    color:#fff;
+                                                    font-family: 'Lato', sans-serif;
+                                                    margin-top: 0px;
+                                                    font-size: 34px;
+                                                    
+                                                                                                }
+    
+    
+                                                                .main_ka::after{
+                                                                                                    content: "";
+                                                                                                    width: 7%;
+                                                                                             display: inline-block;
+                                                                                            height: 2px;
+                                                                                            margin-top: 0px;
+                                                                                           background: #0c6ea7;
+                                                                                        margin-left: 7px;
+                                                                                                }      
+                                                                                                
+
+    .carousel-caption{
+        height: 500px;
+    }                                                                                            
+
+
+
+    .gh{
+
+        float: left;
+        width: 50%;
+        margin-top: 70px;
+        padding-left: 30px;
+        padding-right: 30px;
+
+    }
+
+    .comm{
+        font-style: italic;
+        float: left;
+        width: 100%;
+        
+    }
+
+    .av{
+        float: left;
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .fot{
+        float: left;
+        width: 50%;
+    }
+
+    .fot img{
+
+        border-radius: 50%;
+    }
+
+    .av_tex{
+        float: left;
+        width: 50%;
+        font-size: 14px;
+        font-family: 'Lato', sans-serif;
+        color: #fff;
+        text-align: left;
+        margin-top: 5px;
+    }
+    .av_tex p{
+        
+        font-size: 15px;
+        text-transform: uppercase;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin-top:5px ;
+    }
+
+
+    #catcher{
+
+        float: left;
+        width: 100%;
+        height: 150px;
+        background: #15141a;
+        border-top:1px solid silver;
+        line-height: 150px;
+        overflow: hidden;
+        
+    }
+
+
+    #lwys{
+
+        float: left;
+        width: 60%;
+        font-size: 30px;
+        font-family: 'Lato', sans-serif;
+        color: #fff;
+        padding-left: 20px;
+    }
+
+    #dr_sh{
+
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+
+    #dvf{
+        float: left;
+        width: 40%;
+
+    }
+
+    #mainn_ka{
+        text-transform: uppercase;
+        color:#0c6ea7;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 16px;
+        text-align: center;
+        margin-top: 50px;
+        float: left;
+        width: 100%;
+        
+        
+        
+                                                    }
+        
+                                                    #mainn_ka p{
+                                                        text-transform: none;
+                                                        color:#000;
+                                                        font-family: 'Lato', sans-serif;
+                                                        margin-top: 0px;
+                                                        font-size: 34px;
+                                                        
+                                                                                                    }
+        
+        
+                                                                    #mainn_ka::after{
+                                                                                                        content: "";
+                                                                                                        width: 5%;
+                                                                                                 display: inline-block;
+                                                                                                height: 2px;
+                                                                                                margin-top: 0px;
+                                                                                               background: #0c6ea7;
+                                                                                            margin-left: 7px;
+                                                                                                    }      
+
+                              .ghf{
+float: left;
+width: 20%;
+margin-left: 50px;
+
+                              }                                                                      
+
+
+
+                              #pp{
+float: left;
+width: 100%;
+padding-top: 100px;
+
+
+                              }
+
+
+                              .na_ghf{
+
+                                float: left;
+                                text-align: center;
+                                width: 100%;
+                                font-size: 20px;
+                                text-transform: uppercase;
+                                color:#000;
+                                font-family: 'Roboto Condensed', sans-serif;
+                                margin-left: 10px;
+
+                              }
+
+
+                              .den{
+                                  margin-top: 20px;
+                                  width: 100%;
+                                  float: left;
+                                 
+                                  height: 150px;
+                                  text-align: center;
+                                  font-family: 'Roboto Condensed', sans-serif;
+                                  font-size: 35px;
+                            padding-top: 50px;
+                              overflow: hidden;
+                              cursor: pointer;
+                              }
+
+                              .l_1{
+                               font-size: 20px;
+                               float: left;
+                               width: 50%;
+                               padding-left: 90px;
+                              
+                              }
+                              .l_2{
+
+float: left;
+width: 50%;
+padding-right:110px ;
+margin-top: -7px;
+
+                              }
+
+                              .pem{
+                                font-family: 'Lato', sans-serif;
+                                font-size: 16px;
+                                float: left;
+                                width: 100%;
+                               
+                              }
+
+
+                           
+                              .tex_ghf{
+                                  float: left;
+                                  width: 100%;
+                                  text-align: center;
+                                  height: 120px;
+                                  font-family: 'Lato', sans-serif;
+                                  color: #999999;
+                                  margin-top: 50px;
+                              }
+
+
+
+                              .vid{
+
+                                color:#008ed6;
+                              }
+
+
+                              .o_n{
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+width: 160px;
+height: 50px;
+
+float: none; 
+
+margin-top: 50px;
+text-transform: uppercase;
+line-height: 50px;
+text-align: center;
+color:#008ed6;
+font-size: 14px;
+font-family: 'Roboto Condensed', sans-serif;
+cursor: pointer;
+overflow-y: hidden;
+
+                              }
+
+                              
+                                
+                              .ghf:hover  .o_n{
+                                  background:#008ed6 ;
+                                  color: #fff;
+                                  border-radius: 3px;
+                                  transition: all 0.7s ease;
+                              }
+
+                              .ghf:hover .den{
+                                background:#008ed6 ;
+                                color: #fff;
+                                border-radius: 3px;
+                                transition: all 0.7s ease; 
+                              }
+
+                              .ghf:hover .na_ghf{
+                                  color: #008ed6;
+                                  transition: all 0.7s ease; 
+                              }
+
+
+                              
+    #c_u{
+        text-transform: uppercase;
+        color:#0c6ea7;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 16px;
+        text-align: center;
+        margin-top: 100px;
+        float: left;
+        width: 100%;
+        
+        
+        
+        
+                                                    }
+        
+                                                    #c_u p{
+                                                        text-transform: none;
+                                                        color:#000;
+                                                        font-family: 'Lato', sans-serif;
+                                                        margin-top: 0px;
+                                                        font-size: 34px;
+                                                        
+                                                                                                    }
+        
+        
+                                                                    #c_u::after{
+                                                                                                        content: "";
+                                                                                                        width: 5%;
+                                                                                                 display: inline-block;
+                                                                                                height: 2px;
+                                                                                                margin-top: 0px;
+                                                                                               background: #0c6ea7;
+                                                                                            margin-left: 7px;
+                                                                    }
+
+
+                                         #c_uc{
+
+                                            float: left;
+                                            width: 100%;
+                                            padding-left: 60px;
+                                         }                           
+
+
+                                         .c_uc1{
+float: left;
+text-align: center;
+width: 30%;
+margin-top: 50px;
+margin-left: 20px;
+
+                                         }
+
+                                         .c_uc1 p{
+
+                                            font-size: 18px;
+                                            color: #b2b2b2;
+
+                                         }
+
+                                         .c_uc1 i{
+                                        color: #008ed6;
+                                        font-size: 28px;
+                                        margin-bottom: 20px;
+
+
+                                         }
+
+                                         .c_uc1 img{
+                                             margin-bottom: 20px;
+                                         }
+
+
+
+                                         #obr_sv{
+width: 750px;
+height: 350px;
+margin: 0 auto;
+display: block;
+background: #15141a;
+padding-top: 50px;
+position: relative;
+                                            z-index: 74;
+
+
+                                         }
+
+
+                                         textarea {
+                                            resize:none;
+                                            padding-top: 10px;
+                                            padding-left: 10px;
+                                            width: 300px;
+                                            background:#15141a ;
+                                            height: 190px;
+                                            border: 1px solid #444348;
+                                            border-radius: 1px;
+                                            color: #504f52;
+                                            padding-right: 10px;
+                                            
+                                        }
+
+                                        input{
+                                            width: 300px;
+                                            height: 50px;
+                                            border: 1px solid #444348;
+                                            border-radius: 1px;
+                                            background:#15141a ;
+                                            float:left;
+                                            color: #504f52;
+                                            margin-top: 50px;
+                                           
+
+                                        }
+
+
+                                        #inn{
+
+                                            float: left;
+                                            width: 50%;
+                                            padding-left: 50px;
+
+                                        }
+
+                                        #t_a{
+                                            float: left;
+                                            width: 50%;
+                                            padding-top: 20px;
+                                            font-family: 'Lato', sans-serif;
+                                            
+                                        }
+                                        .inuy{
+                                            margin-top: 20px;
+                                            font-family: 'Lato', sans-serif;
+                                            padding-left: 10px;
+                                        }
+
+                                   
+                                      
+                                        #s_m{
+                                           
+                                            width: 100%;
+                                          
+                                            float: left;
+                                        }
+
+                                        #s_mm{
+                                            background: #008ed6;
+                                            margin-top: 20px;
+                                            display: block;
+                                            margin-left: auto;
+                                            width: 150px;
+                                            height: 50px;
+                                            border-radius: 3px;
+                                            line-height: 50px;
+                                            text-align: center;
+                                            color: #fff;
+                                            text-transform: uppercase;
+                                            font-family: 'Roboto Condensed', sans-serif;
+                                            margin-right: 70px;
+                                            cursor: pointer;
+                                        }
+
+                                        iframe{
+                                            float: left;
+                                            width: 100%;
+                                            height: 350px;
+                                            margin-top: -50px;
+                                            position: relative;
+                                            z-index: 73;
+                                        }
+
+                                        #c_i_i{
+                                            float: left;
+                                            width: 100%;
+                                            padding-top: 50px;
+                                        }
+
+
+                                        #footer{
+                                            width: 100%;
+                                            float: left;
+                                            height: 150px;
+                                            background: #15141a;
+                                            text-align: center;
+                                            padding-top: 50px;
+                                        }
+                                        #footer p{
+                                            margin-top: 5px;
+                                            text-transform: uppercase;
+                                            font-family: 'Roboto Condensed', sans-serif;
+                                            font-size: 14px;
+                                        }
+
+                                        #footer i{
+                                            margin-left: 10px;
+                                            font-size: 18px;
+                                            cursor: pointer;
+                                        }
+
+                                        #footer i:hover{
+                                            transition: all 0.7s ease;
+                                            color: #008ed6;
+                                        }
